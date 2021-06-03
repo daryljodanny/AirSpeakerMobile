@@ -1,15 +1,14 @@
 package edu.rit.airspeakermobile;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
-
+import androidx.appcompat.app.AppCompatActivity;
 import nz.co.iswe.android.airplay.AirPlayServer;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
 
 
